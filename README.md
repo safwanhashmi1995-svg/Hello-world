@@ -1,2 +1,2 @@
-# Hello-world 
-hello world myself sohail this is my first branch
+# Hello-world
+My first Git hub repository
